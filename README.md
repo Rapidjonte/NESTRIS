@@ -3,6 +3,7 @@
 * rebirth
 * 810 line level
 * das charging
+* controller support
 
 # controls
 * a/d = shift horizontally
